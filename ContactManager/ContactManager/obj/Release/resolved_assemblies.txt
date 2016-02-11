@@ -1,0 +1,14 @@
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\ContactManager.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\Mono.Android.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\mscorlib.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\Newtonsoft.Json.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\RestSharp.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.Core.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.Data.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.Xml.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\Xamarin.Insights.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.ServiceModel.Internals.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.Xml.Linq.dll
+D:\Projects\ContactManager_web\ContactManager\ContactManager\obj\Release\android\assets\System.Net.Http.dll

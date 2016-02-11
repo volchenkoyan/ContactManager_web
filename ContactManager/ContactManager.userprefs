@@ -1,0 +1,121 @@
+﻿<Properties StartupItem="ContactManager\ContactManager.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.CB5122XM4W" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactManager\MainActivity.cs">
+    <Files>
+      <File FileName="ContactManager\MainActivity.cs" Line="80" Column="22" />
+      <File FileName="ContactManager\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="ContactManager\Resources\menu\menu_main.xml" Line="1" Column="1" />
+      <File FileName="ContactManager\AddUser.cs" Line="124" Column="5" />
+      <File FileName="ContactManager\Contact.cs" Line="1" Column="1" />
+      <File FileName="ContactManager\JSONAdapter.cs" Line="38" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="4" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="4" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="39" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="39" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="39" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="39" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="78" column="3" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="13" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="13" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="13" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="13" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="13" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="93" column="25" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+      <RunToCursorBreakpoint file="D:\Projects\ContactManager_web\ContactManager\ContactManager\MainActivity.cs" line="80" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContactManager AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

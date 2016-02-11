@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.contact_manager">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="19" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:allowBackup="true" android:icon="@mipmap/icon" android:label="@string/app_name" android:name="mono.android.app.Application">
+    <activity android:icon="@mipmap/icon" android:label="Contact Manager" android:name="md50946a26cf70026f89182579aed7049d6.MainActivity" />
+    <activity android:label="AddUser" android:name="md50946a26cf70026f89182579aed7049d6.AddUser" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.contact_manager.mono.MonoRuntimeProvider.__mono_init__" />
+    <activity android:icon="@mipmap/icon" android:label="Contact Manager" android:name="com.companyname.contact_manager.TrialSplashScreen" android:theme="@style/Mono.Android.Theme.Splash" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>
